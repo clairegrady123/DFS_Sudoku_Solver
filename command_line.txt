@@ -9,7 +9,7 @@ optional arguments:
 Default Level: easy
 
 
-Author: Claire Grady (username: cgrady3 and student id: 220256023)
+Author: Claire Grady 
 
 Version: 1.0
 
